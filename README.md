@@ -1,4 +1,5 @@
 "# Sistema-de-Gerenciamento-Web" 
+
 Este projeto foi desenvolvido como parte de um teste técnico, focado em demonstrar habilidades em PHP, MySQL e integração com AJAX.
 
 ## 🚀 Como rodar o projeto
