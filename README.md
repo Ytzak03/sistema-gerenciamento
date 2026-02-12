@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte de um teste técnico, focado em demonst
     *   Crie um banco de dados chamado `sistema_gerenciamento`.
     *   Importe o arquivo localizado em: `bd/sistema-gerenciamento.sql`. Este arquivo já contém toda a estrutura de tabelas e os registros necessários para o funcionamento inicial.
   
-###SQL PARA CRIAÇÂO DE TABELAS E BANCO
+###SQL PARA CRIAÇÃO DE TABELAS E BANCO
 
 CREATE DATABASE IF NOT EXISTS sistema_gerenciamento;
 USE sistema_gerenciamento;
